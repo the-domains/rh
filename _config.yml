@@ -1,6 +1,6 @@
 name: rh
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.8773697377182543
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: follow
     item: null
     url: null
+typography_spectrum: 0.9305005797650665
