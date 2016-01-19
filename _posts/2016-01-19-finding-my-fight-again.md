@@ -1,45 +1,30 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.instagram.com/p/BASldXnyzrx/?taken-by=rhiml11'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-19T09:23:07.701Z'
-dateModified: '2016-01-19T09:21:28.555Z'
-author:
-  - name: rhiml11
-    url: 'https://www.instagram.com/rhiml11'
-    avatar: {}
-related: []
-app_links:
-  - url: 'instagram://media?id=1158152800137067249'
-    type: ios
-    app_name: Instagram
-    app_store_id: '389801252'
-  - url: 'https://www.instagram.com/p/BASldXnyzrx/'
-    type: android
-    app_name: Instagram
-    package: com.instagram.android
+description: The start
+datePublished: '2016-01-19T09:33:56.235Z'
+dateModified: '2016-01-19T09:33:46.185Z'
 title: FINDING MY FIGHT AGAIN
+author: []
 authors: []
 publisher:
-  name: Instagram
-  domain: www.instagram.com
-  url: 'https://www.instagram.com'
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
+  name: null
+  domain: null
+  url: null
+  favicon: null
 sourcePath: _posts/2016-01-19-finding-my-fight-again.md
 published: true
-_type: Photograph
-_context: 'http://schema.org'
+url: finding-my-fight-again/index.html
+_type: Article
 
 ---
 # FINDING MY FIGHT AGAIN
-![2016 goals - look less moody than the last 3 years &vert; &num;focus &num;tb &num;blackandwhiteisworththefight &num;thepseutographer](https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/s640x640/sh0.08/e35/1922291_1670621073209837_1500120835_n.jpg)
 
-This is me 3 years ago at Christmas. 
+This is me 3 years ago at Christmas. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62482c93-aca4-4a6e-a0e5-d35458eda465.jpg)
 
 It might look like I'm just posing, and you may be right, but the reality also is that I hadn't been happy with my life since I left university. 
 
