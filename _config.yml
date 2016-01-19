@@ -1,6 +1,8 @@
 name: rh
 favicon: null
 layout_spectrum: 0.8773697377182543
+typography_spectrum: 0.9305005797650665
+title: Finding My Fight
 cta:
   domain: null
   bucket: null
@@ -23,4 +25,3 @@ purpose:
   - name: follow
     item: null
     url: null
-typography_spectrum: 0.9305005797650665
