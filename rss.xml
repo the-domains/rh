@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Finding My Fight]]></title>
         <description><![CDATA[Finding My Fight]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rh/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 09:33:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 09:34:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rh/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[FINDING MY FIGHT AGAIN]]></title>
             <description><![CDATA[<article><h1>FINDING MY FIGHT AGAIN</h1><p>It might look like I'm just posing, and you may be right, but the reality also is that I hadn't been happy with my life since I left university. </p></article>]]></description>
-            <link>undefinedfinding-my-fight-again/index.html</link>
+            <link>https://thegrid.ai/rh/finding-my-fight-again/index.html</link>
             <guid isPermaLink="false">c926aa92-1a1a-4908-a8f8-0767dffd538c</guid>
-            <pubDate>Tue, 19 Jan 2016 09:33:56 GMT</pubDate>
+            <pubDate>Tue, 19 Jan 2016 09:34:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
